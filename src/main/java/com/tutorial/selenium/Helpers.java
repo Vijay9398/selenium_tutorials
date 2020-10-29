@@ -13,7 +13,6 @@ import org.testng.Reporter;
 public class Helpers {
 
     private WebDriver driver;
-
     public Helpers(WebDriver driver) {
         this.driver = driver;
     }
